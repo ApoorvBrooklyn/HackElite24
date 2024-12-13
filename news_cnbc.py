@@ -1,5 +1,4 @@
 import ycnbc
-
 news = ycnbc.News()
 
 # Get trending news
@@ -47,4 +46,3 @@ technology_ = news.technology()
 tech_guide_ = news.tech_guide()
 # social_media_ = news.social_media()
 climate_ = news.climate()
-print(policy_)
